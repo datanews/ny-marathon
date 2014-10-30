@@ -1,4 +1,4 @@
-ny-marathon
-===========
+2014 NY Marathon Route
+======================
 
-GeoJSON of 2014 NYC marathon route and mile markers.
+GeoJSON of the 2014 NYC marathon route and mile markers.
